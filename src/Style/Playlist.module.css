@@ -1,0 +1,9 @@
+.playlist_left_bar{
+    width: 30%;
+}
+.playlist_right_bar{
+    width: 70%;
+    overflow-y: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
